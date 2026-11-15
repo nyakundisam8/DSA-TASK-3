@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the solutions to selected questions of **Data Structures and Algorithms (DSA) Task 3**. The solutions are implemented in **Python** (Questions 1, 4, 5 and 6) and **C** (Question 7). Question 2 is a theoretical discussion and is summarised below.
+This repository contains the solutions to selected questions of **Data Structures and Algorithms (DSA) Task 3**. The solutions are implemented in **Python** (Questions 1, 4, 5 and 6) and **C** (Question 7). The other questions were handwritten and will be presented as a scan pdf.
 
 ---
 
